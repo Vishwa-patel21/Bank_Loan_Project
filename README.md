@@ -1,7 +1,5 @@
 # Bank Loan Report Tableau Project
 
-![Bank Logo](OIP__3_-removebg-preview.png)
-
 ## Overview
 
 This repository contains a Tableau project for analyzing bank loan data. The project includes a comprehensive dashboard that provides insights into key loan-related metrics and their changes over time. It helps make data-driven decisions, track the loan portfolio's health, and identify trends to inform lending strategies.
