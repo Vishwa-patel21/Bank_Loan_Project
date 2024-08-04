@@ -15,14 +15,11 @@ This repository contains a Tableau project for analyzing bank loan data. The pro
 - [Terminologies](#terminologies)
 - [How to View](#how-to-view)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Files
 
 - `Bank Loan Project.twbx` - Tableau workbook containing the project.
 - `financial_loan.csv` - Dataset used for the project.
-- `Domain Knowledge Doc.docx` - Document providing domain knowledge related to bank loans.
 - `Problem Statement.docx` - Document outlining the problem statement for the project.
 - `Query Doc.docx` - Document containing SQL queries used in the analysis.
 - `Terminologies in Data.docx` - Document explaining the terminologies used in the data.
@@ -74,12 +71,6 @@ To deploy the Tableau project on Tableau Public or Tableau Server, follow these 
 4. Click on "Save to Tableau Public As" or "Save to Tableau Server".
 5. Provide the necessary details and click "Save".
 
-You can view the deployed Tableau project [here](#).
+You can view the deployed Tableau project [here](https://public.tableau.com/views/BankLoanProject_17228021175870/DETAILS?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any improvements or suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
